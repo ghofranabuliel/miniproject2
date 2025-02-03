@@ -1,0 +1,9 @@
+<script>start("/Users/ghofranabuleil/Desktop/projects/empy_python_package/venv/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("bin","bin",1,576,"576 B",1738159292,"1/29/25, 4:01:32 PM");</script>
+<script>addRow("include","include",1,96,"96 B",1738158757,"1/29/25, 3:52:37 PM");</script>
+<script>addRow("lib","lib",1,128,"128 B",1738163115,"1/29/25, 5:05:15 PM");</script>
+<script>addRow("share","share",1,96,"96 B",1738159292,"1/29/25, 4:01:32 PM");</script>
+<script>addRow(".DS_Store",".DS_Store",0,8196,"8.0 kB",1738163520,"1/29/25, 5:12:00 PM");</script>
+<script>addRow(".gitignore",".gitignore",0,69,"69 B",1738158757,"1/29/25, 3:52:37 PM");</script>
+<script>addRow("pyvenv.cfg","pyvenv.cfg",0,340,"340 B",1738158757,"1/29/25, 3:52:37 PM");</script>
