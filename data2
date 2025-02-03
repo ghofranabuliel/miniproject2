@@ -1,0 +1,5 @@
+<script>start("/Users/ghofranabuleil/Desktop/projects/empy_python_package/data2/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("brain_data_channel_one.csv","brain_data_channel_one.csv",0,12328293,"11.8 MB",1738584097,"2/3/25, 2:01:37 PM");</script>
+<script>addRow("events_file_ordered.csv","events_file_ordered.csv",0,48032,"46.9 kB",1738584113,"2/3/25, 2:01:53 PM");</script>
+<script>addRow("finger_data.csv","finger_data.csv",0,58695840,"56.0 MB",1738584117,"2/3/25, 2:01:57 PM");</script>
